@@ -1,0 +1,8 @@
+body {
+    background-color: blue;
+    color: white;  /* Optional: change text color to make it readable */
+}
+
+.dash-graph {
+    border: 5px solid yellow;
+}
